@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "874245108654",
+    "project_id": "instagram-ogabekdev",
+    "storage_bucket": "instagram-ogabekdev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874245108654:android:8b5bc6247d2076a53fce3f",
+        "android_client_info": {
+          "package_name": "dev.ogabek.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874245108654-daf2khec9h0fuhgkd5r9cmnblsnb11rm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3M4XnHVaqWIhNmsy-5ob9FlPeZyDfnnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874245108654-daf2khec9h0fuhgkd5r9cmnblsnb11rm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874245108654:android:eb3bc9566f3e27243fce3f",
+        "android_client_info": {
+          "package_name": "dev.ogabek.java"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874245108654-daf2khec9h0fuhgkd5r9cmnblsnb11rm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3M4XnHVaqWIhNmsy-5ob9FlPeZyDfnnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874245108654-daf2khec9h0fuhgkd5r9cmnblsnb11rm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
